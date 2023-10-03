@@ -1,5 +1,12 @@
-### Hi there 👋
+### ⭐
+- Madurova Mariia, 22 years old
+- Bachelor of Computer Science (Moscow Polytechnic University 2019-2023)
+- School21 Moscow student (you can find me as Helene Hotblack, or just hotblack)
+- Future Data Scientist, I guess
 
+Currently learning C++ and DS-oriented Python. Uploading some past projects
+
+gmail: madurova.m.p@gmail.com
 <!--
 **marovudam/marovudam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
