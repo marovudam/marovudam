@@ -1,11 +1,11 @@
 ### ⭐
-- Madurova Mariia, 22 years old
+- Madurova Mariia, 23 years old
 - Bachelor of Computer Science (Moscow Polytechnic University 2019-2023)
 - School21 Moscow student (you can find me as Helene Hotblack, or just hotblack), wave 13
 - intra: momnisci (Mimi Omniscient)
-- Intern Data Engineer (30.10.2023 - ...)
+- Data Engineer (30.10.2023 - ...)
 
-Currently learning C++ and DS-oriented Python. Uploading some past projects
+Currently learning Scala and DS-oriented Python. Uploading some past projects
 
 gmail: madurova.m.p@gmail.com
 <!--
